@@ -1,4 +1,2 @@
-22
-111
 mod by 2
-mod by 11
+mod by 1
